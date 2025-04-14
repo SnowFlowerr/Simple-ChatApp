@@ -1,4 +1,4 @@
-# 🧠 ChatSphere - AI Assistant Chat UI
+# 🧠 Simple-ChatApp
 
 A sleek and functional React-based chat interface with editable and deletable messages, smooth UI, and localStorage persistence.
 
